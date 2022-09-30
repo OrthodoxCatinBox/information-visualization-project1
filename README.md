@@ -5,12 +5,12 @@
 
 ### Environment configuration
 + Python 3.9.1
-+ matplotlib == 3.4.3
-+ seaborn == 0.12.0
-+ pandas == 1.4.4
-+ numpy == 1.21.0
-+ display == 1.0.0
-+ pearsonr == 0.1.0
++ matplotlib >= 3.4.3
++ seaborn >= 0.12.0
++ pandas >= 1.4.4
++ numpy >= 1.21.0
++ display >= 1.0.0
++ pearsonr >= 0.1.0
 
 ### Catalogue structure
 ```
